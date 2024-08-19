@@ -21,6 +21,10 @@ A WordPress code snippet to display a list of categories with a 'Show All' optio
 - Set `show_count` to `true` if you want to display the post count next to each category.
 - Customize the CSS classes (`.cat-list-container-fluid`, `.cat-list-container`) to fit your theme's styling.
 
+## Output Screenshot
+![image](https://github.com/user-attachments/assets/20a0a68b-c022-4aac-bd7d-2d738ced7325)
+
+
 ## Contributing
 Contributions to improve the code or suggest new features are welcome. Submit a pull request or open an issue on GitHub.
 
